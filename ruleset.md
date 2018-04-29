@@ -90,3 +90,8 @@ Final Round for this Phase of the game. At the end of this round, all
 players points are tallied, and any player (other than the first) whose
 score exceeds 300 points is also considered a winner. After the Final
 Round is over, the Game Phase ends and the End Phase begins.
+
+# Rule 11
+
+Your initial rule proposal must be the rule brought to vote. After you
+post it, you can’t modify it- no exceptions.
