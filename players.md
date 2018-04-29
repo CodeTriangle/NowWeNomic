@@ -1,6 +1,6 @@
 | Player          | Score |
 | --------------- | ----- |
-| Loony           | 0     |
+| Loony           | 4     |
 | ThatGuyCarl     | 0     |
 | Segostaurus     | 0     |
 | whitehat        | 0     |

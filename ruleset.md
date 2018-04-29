@@ -1,6 +1,3 @@
-0--------1---------2---------3---------4---------5---------6---------7---------8---------9---------
-123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-
 # Rule 1 (Immutable)
 
 All players in the game must obey all rules. A rule is defined as a
@@ -83,3 +80,13 @@ in the case of prolonged absence. (Such as a vacation.)
 
 After a player's proposal is passed, a random number from 1 to 10 is
 generated. That player gets that many points added to their point score.
+
+# Rule 10
+
+During the Game Phase, if one or more players passes 300 points at the
+end of their turn, then they are considered a winner of that game. Once
+at least one winner has been declared, the current round becomes the
+Final Round for this Phase of the game. At the end of this round, all
+players points are tallied, and any player (other than the first) whose
+score exceeds 300 points is also considered a winner. After the Final
+Round is over, the Game Phase ends and the End Phase begins.
