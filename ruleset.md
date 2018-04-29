@@ -109,3 +109,39 @@ also carry out whatever steps they find necessary to keep peace and
 well-being of the server, however, players may call a Grand Trial on a
 mod or admin to remove their role, and while at trial, all of their mod
 powers are revoked during the time of the trial.
+
+# Rule 13
+
+On their turn, a player may choose to spend 10 points from their point
+score to shuffle the turn order. This will cause the turn order to be
+randomised at the end of the round, however the player who initiated it
+will be first in the new turn order. Only one player can do this per
+round.
+
+# Rule 14
+
+## Section 1
+
+Points are now the official currency of Now We Nomic. Certain roles may
+recieve points as a salary for their work. Players may now 'donate'
+their points or 'trade' their points. They may never do either of these
+to put their point score negative, and if they would have negative
+points, their donation or trade is reverted. A donation of points simply
+subtracts that number of points from your account and gives it to
+another player. They must first agree to recieve it. A trade is a
+donation, in which is return for the other party doing an agreed upon
+something, if both parties agree.
+
+## Section 2:
+
+A new role is created called the "Guardian of Estates", or GoE. All
+donations and trades must be formalized with them first, and they make
+sure the trade or donation is carried out freely. If one player tries to
+not carry out their part of the deal, such as a player not performing
+the action required by a trade, the GoE may choose to punish those
+players by realloting points to those two players to a pre-trade state,
+and subtracting up to 1/5th of trade's point value from the offending
+party's account. A GoE is chosen by election every round, and cannot
+hold more than two consecutive terms. An election lasts 72 hours, and
+the player with the most votes at the end of that time wins. A GoE may
+be removed from office by Grand Trial. 
