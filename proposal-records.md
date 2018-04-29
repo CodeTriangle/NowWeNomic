@@ -1,9 +1,10 @@
-- Round 1, Turn 1: Rule 10 passed by Loony
-- Round 1, Turn 2: ThatGuyCarl's proposal fails
-- Round 1, Turn 3: Segostaurus's proposal fails
-- Round 1, Turn 4: Rule 11 passed by whitehat
-- Round 1, Turn 5: Willbert cedes to Matrix Cthulhu; rule 12 passed
-- Round 1, Turn 6: MrHankey fails to take turn
-- Round 1, Turn 7: Rule 13 passed by Veganzombeh
-- Round 1, Turn 8: h2g2_researcher's proposal fails
-- Round 1, Turn 9: Rule 14 passed by Matrix Cthulhu
+- Round 1, Turn 1:  Rule 10 passed by Loony
+- Round 1, Turn 2:  ThatGuyCarl's proposal fails
+- Round 1, Turn 3:  Segostaurus's proposal fails
+- Round 1, Turn 4:  Rule 11 passed by whitehat
+- Round 1, Turn 5:  Willbert cedes to Matrix Cthulhu; rule 12 passed
+- Round 1, Turn 6:  MrHankey fails to take turn
+- Round 1, Turn 7:  Rule 13 passed by Veganzombeh
+- Round 1, Turn 8:  h2g2_researcher's proposal fails
+- Round 1, Turn 9:  Rule 14 passed by Matrix Cthulhu
+- Round 1, Turn 10: Luca Wight leaves
