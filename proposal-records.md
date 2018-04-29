@@ -2,3 +2,4 @@
 - Round 1, Turn 2: ThatGuyCarl's proposal fails
 - Round 1, Turn 3: Segostaurus's proposal fails
 - Round 1, Turn 4: Rule 11 passed by whitehat
+- Round 1, Turn 5: Willbert cedes to Matrix Cthulhu; rule 12 passed

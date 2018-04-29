@@ -95,3 +95,17 @@ Round is over, the Game Phase ends and the End Phase begins.
 
 Your initial rule proposal must be the rule brought to vote. After you
 post it, you can’t modify it- no exceptions.
+
+# Rule 12
+
+Moderators and admins shall not recieve rewards or benefits in-game for
+being an admin or moderator. They must carry out all rules and laws to
+the best of their ability, and if the players believe they have not done
+this, they may call a grand trial on the "Mod Team", where the
+punishment is a method of resolving the problem. Also, \#server-rules
+can be edited or added to at any time by mods or admins, however, rules
+in it should only exist to help the server. Moderators and admins may
+also carry out whatever steps they find necessary to keep peace and
+well-being of the server, however, players may call a Grand Trial on a
+mod or admin to remove their role, and while at trial, all of their mod
+powers are revoked during the time of the trial.
