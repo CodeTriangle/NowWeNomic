@@ -1,1 +1,2 @@
 - Round 1, Turn 1: Rule 10 passed by Loony
+- Round 1, Turn 2: ThatGuyCarl's proposal fails
