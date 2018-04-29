@@ -1,0 +1,8 @@
+# April 15-19, 2018
+
+- **Called by**: h2g2_researcher on Matrix Cthulhu
+- **Seconded by**: Veganzombeh
+- **Accusation**: Incorrectly starting Segostaurus's turn, as no votes
+  took place on ThatGuyCarl's proposal
+- **Punishment**: ThatGuyCarl's turn is redone
+- **Verdict**: 7-5 in favor of Matrix Cthulhu
