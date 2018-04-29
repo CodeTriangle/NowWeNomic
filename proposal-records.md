@@ -8,3 +8,4 @@
 - Round 1, Turn 8:  h2g2_researcher's proposal fails
 - Round 1, Turn 9:  Rule 14 passed by Matrix Cthulhu
 - Round 1, Turn 10: Luca Wight leaves
+- Round 1, Turn 11: Rule 9 amended by R0BIT KING

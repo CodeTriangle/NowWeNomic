@@ -78,8 +78,9 @@ in the case of prolonged absence. (Such as a vacation.)
 
 # Rule 9
 
-After a player's proposal is passed, a random number from 1 to 10 is
-generated. That player gets that many points added to their point score.
+After a player's proposal is submitted and voted on, that player is
+awarded with the amount of points (rounded up) which this equation
+permits: [votes for/total votes*10]
 
 # Rule 10
 

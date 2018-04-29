@@ -9,5 +9,5 @@
 | Veganzombeh     | 9     |
 | h2g2_researcher | 0     |
 | Matrix Cthulhu  | 9     |
-| R0BIT KING      | 0     |
+| R0BIT KING      | 9     |
 | CodeTriangle    | 0     |
