@@ -133,7 +133,7 @@ another player. They must first agree to recieve it. A trade is a
 donation, in which is return for the other party doing an agreed upon
 something, if both parties agree.
 
-## Section 2:
+## Section 2
 
 A new role is created called the "Guardian of Estates", or GoE. All
 donations and trades must be formalized with them first, and they make
@@ -146,3 +146,25 @@ party's account. A GoE is chosen by election every round, and cannot
 hold more than two consecutive terms. An election lasts 72 hours, and
 the player with the most votes at the end of that time wins. A GoE may
 be removed from office by Grand Trial. 
+
+# Rule 15
+
+## Section 1
+
+A player can, at any time, create a ribbon proposal. This proposal shall
+specify an emoji, a name, a valid ribbon type, and a list of criteria. A
+vote shall be initiated, and after 48 hours, if a majority of votes are
+in favor, a new class of ribbon shall be created in #ribbons as well as
+a new role corresponding to the ribbon class, named with that class's
+name and emoji.
+
+## Section 2
+
+Valid ribbon types are self-appointed or nominated. If a player thinks
+they have achieved the criteria for a self-appointed ribbon, they shall
+state this and create a vote on whether they should receive it. If the
+ribbon is nominated, another player must initiate the vote. Either way,
+if after 48 hours, The majority of votes are in favor, the player in
+question's name will be added under that ribbon class in #ribbons. They
+shall also be given the role associated with the ribbon. Players can
+receive the same ribbon class twice.

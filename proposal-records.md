@@ -10,4 +10,5 @@
 | Apr 23-24, 2018 | Round 1, Turn 8  | h2g2_researcher's proposal fails
 | Apr 25, 2018    | Round 1, Turn 9  | Matrix Cthulhu's proposal is adopted; rule 14 is enacted
 | Apr 26, 2018    | Round 1, Turn 10 | Luca Wight leaves before turn ends
-| Apr 27-28, 2018 | Round 1, Turn 11 | Rule 9 amended by R0BIT KING
+| Apr 27-28, 2018 | Round 1, Turn 11 | R0BIT KING's proposal is adopted; rule 9 is amended
+| Apr 29, 2018    | Round 1, Turn 12 | CodeTriangle's proposal is adopted; rule 15 is amended

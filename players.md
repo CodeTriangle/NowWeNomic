@@ -10,10 +10,12 @@
 | h2g2_researcher | 0     |
 | Matrix Cthulhu  | 9     |
 | R0BIT KING      | 9     |
-| CodeTriangle    | 0     |
+| CodeTriangle    | 9     |
 | silverlava      | 0     |
 | Steelgrassify   | 0     |
 | runciblemoon    | 0     |
 | Mackiaveli      | 0     |
 | Jeskai Nahiri   | 0     |
 | Cuddlebeam      | 0     |
+| Nyhilo          | 0     |
+| malimacx        | 0     |
