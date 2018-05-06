@@ -1,4 +1,4 @@
-#Founder 🌞
+# Founder 🌞
 
 Nominated, given to the person who started off the game.
 
