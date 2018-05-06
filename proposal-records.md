@@ -13,3 +13,4 @@
 | Apr 27-28, 2018     | Round 1, Turn 11 | R0BIT KING's proposal is adopted; rule 9 is amended
 | Apr 29, 2018        | Round 1, Turn 12 | CodeTriangle's proposal is adopted; rule 15 is amended
 | Apr 30-May 1, 2018  | Round 1, Turn 13 | silverlava's proposal is adopted; rule 7 is amended
+| May 2-6, 2018       | Round 1, Turn 14 | Steelgrassify fails to take turn
