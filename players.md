@@ -11,7 +11,7 @@
 | Matrix Cthulhu  | 9     |
 | R0BIT KING      | 9     |
 | CodeTriangle    | 9     |
-| silverlava      | 0     |
+| silverlava      | 10    |
 | Steelgrassify   | 0     |
 | runciblemoon    | 0     |
 | Mackiaveli      | 0     |

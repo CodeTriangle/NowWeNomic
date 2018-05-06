@@ -60,13 +60,23 @@ if an action would  decrease it to negative, it instead decreases it to
 
 # Rule 7
 
-A player's turn lasts 48 hours, and this timer begins at 1 'o clock pm
-UTC. If a turn finishes early by reaching a majority vote, the next turn
-begins at 1 o clock pm UTC the next day. If the 48 hours is reached and
-no majority of players is reached, the majority of votes cast is done,
-instead of majority of players, and the next turn begins. Players may
-cede their turn to another player, allowing that player to make a
-proposal in their stead.
+Every day at 1:00 pm UTC, a new person's turn begins. Each turn lasts
+for 120 hours (5 days), meaning there will be at maximum 5 turns
+happening at the same time.
+
+A turn is split into two phases: Proposal, and Voting
+
+During the proposal phase, players have 96 hours (4 days) to post their
+action in #current-proposal. The voting phase starts immediately after
+they post it. If they do not post an action within the proposal phase,
+their turn ends without a voting phase, and they get a warning.
+
+The voting phase lasts until the end of the turn. During the voting
+phase, players may vote in #voting on whether the proposal should be
+adopted into a rule.
+
+Players may cede their turn to another player, allowing that player to
+post an action in their stead. 
 
 # Rule 8
 
