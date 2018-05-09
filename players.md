@@ -16,6 +16,6 @@
 | runciblemoon    | 10    |
 | Mackeveli       | 0     |
 | Jeskai Nahiri   | 8     |
-| Cuddlebeam      | 0     |
+| Cuddlebeam      | 10    |
 | Nyhilo          | 0     |
 | malimacx        | 0     |

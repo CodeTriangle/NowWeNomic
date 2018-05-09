@@ -148,15 +148,36 @@ Rule 14
 Section 1
 ---------
 
-Points are now the official currency of Now We Nomic. Certain roles may
-recieve points as a salary for their work. Players may now 'donate'
-their points or 'trade' their points. They may never do either of these
-to put their point score negative, and if they would have negative
-points, their donation or trade is reverted. A donation of points simply
-subtracts that number of points from your account and gives it to
-another player. They must first agree to recieve it. A trade is a
-donation, in which is return for the other party doing an agreed upon
-something, if both parties agree.
+Points are the official currency of Now We Nomic. Certain roles are able
+to receive points as a salary for their work. Players can 'donate' their
+points or 'trade' their points.  They cannot do either of these to put
+their point score negative.
+
+A Donation is performed via following these steps:
+
+1. Having permission from the target of the Donation to grant them the
+   donation being performed.
+2. Choosing a positive integer number, then subtracting that number from
+   your point pool and then adding that number to the target's point
+   pool. *(Note that all restrictions related to donations still apply,
+   eg. you cannot use this to set your points to negative and you need
+   to formalize this transaction with the GoE first)*
+
+A Trade is performed via following these steps:
+
+1. Having permission from the sender of the points to perform this
+   Trade. This permission shall:
+   a. State the amount to be sent.
+   b. Have the grant of permission be conditional to the fulfillment of
+      a certain requirement which is to be chosen and made explicit by
+      this sender.
+   c. Only be valid for a single transaction of points. *(You cannot
+      claim a single Trade's allotment of points more than once.)*
+2. Subtract the amount stated in the permission made by the sender from
+   their point balance and then adding that number to your point pool.
+   *(Note that all restrictions related to donations still apply, eg.
+   you cannot use this to set your points to negative and you need to
+   formalize this transaction with the GoE first)*
 
 Section 2
 ---------
