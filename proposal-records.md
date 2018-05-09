@@ -18,5 +18,5 @@
 | May 4-8, 2018       | Round 1, Turn 16 | Mackeveli fails to take turn
 | May 5-8, 2018       | Round 1, Turn 17 | Jeskai Nahiri's proposal is adopted; rule 17 is enacted
 | May 6-X, 2018       | Round 1, Turn 18 | [TBA]
-| May 7-8, 2018       | Round 1, Turn 19 | Cuddlebeam's proposal is adopted; rule 8 is amended
+| May 7-8, 2018       | Round 1, Turn 19 | Cuddlebeam's proposal is adopted; rule 14 is amended
 | May 8-X, 2018       | Round 1, Turn 20 | [TBA]
