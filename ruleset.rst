@@ -237,3 +237,101 @@ haiku has been wrongly rejected.
 
 Players will be awarded 2 points per ratified haiku. Players may post up
 to three haikus per topic.
+
+Rule 17
+=======
+
+Section 1: Creation of the Nomic Commission of Commerce (NCC)
+-------------------------------------------------------------
+
+NCC is comprised of 5 players. The initial commission will be selected
+by the last player to propose a rule in turn order (following the
+passing of this rule) filling seats 1, 2, 3, 4 and 5. Every round or two
+weeks from last change, whichever is shorter, players in seats 1 and 2
+are removed from the commission. Players in seats 3, 4, and 5 move up
+sequentially to fill the empty seats. The last player to propose a rule
+will select new members of the commission for seats 4 and 5. Player
+selection is limited to any player who did not cede their previous turn.
+The current player selecting may not select themselves. Players removed
+from seats 1 and 2 during this change, as well as the GoE (should it
+exist) are not eligible for selection.
+
+Section 2: Jurisdiction of the Nomic Commission of Commerce
+-----------------------------------------------------------
+
+The NCC will vote on all proposals seeking to utilize the current
+currency of Now We Nomic (or the current name of the server). All votes
+require a simple majority. Should there be a tie, the following will be
+used as tiebreaker: current GoE, then the last player to propose. This
+order of succession will conclude as soon as a tie is broken. Any
+proposal brought before the NCC, owned by a sitting member of the NCC,
+requires that member to recuse themselves from the vote. Transactions,
+such as the sale of goods and services is classified under trade.
+Actions listed under Rule 2 such as a proposal of a new rule are not
+subject to NCC rulings. Items are as follows:
+
+A. Loans: Separate from a donation or trade, this is specifically the
+   giving of currency with the expectation of the initial amount plus
+   interest to be repaid some period of time later. This formal contract
+   will be voted on by the NCC and enforced by the GoE (or current title
+   of position in Rule 14, Section 2).  If an enforcer is not present,
+   Seat 1 of the NCC will serve in this capacity.
+
+B. Corporations: Corporations are institutes which can be built by
+   players using the current currency. The formation of a corporation
+   will be voted on by the NCC based on the Proposal of Business (PoB)
+   submitted to the commission. The PoB must include: Cost to found
+   Corporation, List of Player Owners (equity holders), Breakdown of
+   Profit Sharing, representative(s) to act on behalf of the
+   corporation, and Goods and Services provided by corporation.
+   Corporations are not players. Points under the ownership of a
+   corporation may only be used to pay equity holders of the
+   corporation, to produce a good listed in the PoB, or to provide a
+   service listed under the PoB.
+
+C. Goods and Services: A good is any property created by an entity
+   (player, corporation, etc...). A service is any act done by an
+   entity with the expectation of payment in the form of currency. All
+   goods and services must be approved by the NCC before they may be
+   created, manufactured, or otherwise acted upon. Each good and service
+   must have a formal price, cost of production, and benefit to consumer
+   listed. Each of these are subject to change at any time, but the
+   change must be brought before the NCC before being finalized.
+   Benefits can be classified under two categories: static and
+   activated. Static benefits happen naturally on their own with no
+   additional input from the user, usually over a set time frame such as
+   a round. Activated benefits should require some cost to use, i.e.
+   spend points, but provide the user a benefit in the end. Activated
+   items can be used during any turn. A formal list of all approved
+   goods and services will be kept by the NCC. Should anything need to
+   be removed from the list, a special vote can be called on by Seat 1
+   of the current NCC. The creator of a good or service will have
+   exclusive rights to their product for the duration of the round which
+   it is first created. Following this time period, other entities may
+   provide a similar good. Should a violation be perceived, this matter
+   will be handled by the NCC. Appeals will then be heard by calling a
+   grand trial.
+
+Section 3: Payment and Anti-Corruption
+--------------------------------------
+
+Each member of the NCC will receive 15 units of the official currency
+at the end of each round. This occurs before removal from seats. NCC
+members are prohibited from accepting bribes in the form of donations or
+payment for the exchange of approval for one of the items listed above.
+A grand trial should be immediately called if any bribery is suspected.
+Violation, or the attempt there of, is punishable by fine or, in some
+cases, a ban from Now We Nomic (or current name of server).
+
+Section 4: Record Keeping
+-------------------------
+
+Each Player shall have a list of owned items stored on a channel,
+#playeritems. The list of approved goods and services will be listed
+under a channel, #Marketplace. All properties listed above will be
+listed (price, distributor, benefits/uses, etc.). Item usage should
+have its own channel as well to monitor the actions of players. The NCC
+will need its own channel for proposals, and each member of the NCC will
+be listed in their respective seat in said channel. Should any other
+channel be deemed necessary, it will be created with the approval of the
+Mod team.

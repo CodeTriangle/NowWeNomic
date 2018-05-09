@@ -15,7 +15,7 @@
 | Steelgrassify   | 0     |
 | runciblemoon    | 10    |
 | Mackeveli       | 0     |
-| Jeskai Nahiri   | 0     |
+| Jeskai Nahiri   | 8     |
 | Cuddlebeam      | 0     |
 | Nyhilo          | 0     |
 | malimacx        | 0     |
