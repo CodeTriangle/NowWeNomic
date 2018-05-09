@@ -167,6 +167,7 @@ A Trade is performed via following these steps:
 
 1. Having permission from the sender of the points to perform this
    Trade. This permission shall:
+   
    a. State the amount to be sent.
    b. Have the grant of permission be conditional to the fulfillment of
       a certain requirement which is to be chosen and made explicit by
