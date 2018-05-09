@@ -15,3 +15,4 @@
 | Apr 30-May 1, 2018  | Round 1, Turn 13 | silverlava's proposal is adopted; rule 7 is amended
 | May 2-6, 2018       | Round 1, Turn 14 | Steelgrassify fails to take turn
 | May 3-7, 2018       | Round 1, Turn 15 | runciblemoon's proposal is adopted; rule 16 is enacted
+| May 4-8, 2018       | Round 1, Turn 16 | Mackeveli fails to take turn
