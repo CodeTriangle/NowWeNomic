@@ -4,7 +4,7 @@
 - **Duties**: Ensure that the economy flows smoothly.
 - **Filling rules**: Elected every round.
 - **History**:
-  - Matrix Cthulhu (Apr 30, 2018-present)
+  - Matrix Cthulhu (Apr 30, 2018 to present)
 
 # Viceroy of Poetic Affairs (VoPA)
 
@@ -13,3 +13,4 @@
 - **Filling rules**: Elected each year, or whenever current VoPA
   fails to post topic thrice consecutively.
 - **History**:
+  - Nyhilo (May 9, 2018 to present)
