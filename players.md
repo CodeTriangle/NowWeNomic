@@ -13,8 +13,8 @@
 | CodeTriangle    | 9     |
 | silverlava      | 10    |
 | Steelgrassify   | 0     |
-| runciblemoon    | 0     |
-| Mackiaveli      | 0     |
+| runciblemoon    | 10    |
+| Mackeveli       | 0     |
 | Jeskai Nahiri   | 0     |
 | Cuddlebeam      | 0     |
 | Nyhilo          | 0     |

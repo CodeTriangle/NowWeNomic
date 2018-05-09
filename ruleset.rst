@@ -1,4 +1,5 @@
-# Rule 1 (Immutable)
+Rule 1 (Immutable)
+==================
 
 All players in the game must obey all rules. A rule is defined as a
 textual order or definition written in the Laws and Rules category.
@@ -10,7 +11,8 @@ precedence over any other rule, and if two phase rules contradict, B
 class rules override S and E class rules, and lower digits have
 precedence if both are B class.
 
-# Rule 2 (Immutable)
+Rule 2 (Immutable)
+==================
 
 Each player is assigned a place in the turn order, with new players
 being put at the end of the turn order as they join. Turns rotate down
@@ -23,13 +25,15 @@ made mutable, or another action determined by other laws than this one.
 A public vote shall be held, and if a simple majority is reached in
 favor of the action, the action is resolved as intended.
 
-# Rule 3 (Immutable)
+Rule 3 (Immutable)
+==================
 
 All players may vote at every opportunity, unless they are banned from
 the server. Each player may vote once and only once, and each vote is
 equal.
 
-# Rule 4 (Immutable)
+Rule 4 (Immutable)
+==================
 
 Each law is assigned a number, with each new law being one above the
 previous one. A law may also be assigned a nickname. All laws, when
@@ -38,7 +42,8 @@ divided into sections within the law. All clauses should cover the same
 topic. When calling an edit to an existing law as an action, the edit
 should only relate to the topic of the law.
 
-# Rule 5 (Immutable)
+Rule 5 (Immutable)
+==================
 
 In the case of a law being broken, a Grand Trial may be called. In a
 Grand Trial, a new category and text channels are created specifically
@@ -51,14 +56,16 @@ permanent banning from this server, two thirds or more is required to
 pass the punishment. Players have a period of two turns to vote, and
 turns proceed as normal during the Grand Trial.
 
-# Rule 6 (Immutable)
+Rule 6 (Immutable)
+==================
 
 Each player has a score called their 'point score', which will be
 recorded next to their name in turn order. It can never be negative, and
 if an action would  decrease it to negative, it instead decreases it to
 0.
 
-# Rule 7
+Rule 7
+======
 
 Every day at 1:00 pm UTC, a new person's turn begins. Each turn lasts
 for 120 hours (5 days), meaning there will be at maximum 5 turns
@@ -78,7 +85,8 @@ adopted into a rule.
 Players may cede their turn to another player, allowing that player to
 post an action in their stead. 
 
-# Rule 8
+Rule 8
+======
 
 Failing to take an action, or cede your action, on your turn, will
 result in a warning. If 3 warnings are called on a single player, a
@@ -86,13 +94,15 @@ Grand Trial for removal from the server commences. You may also choose
 your cede up to your next 5 actions to a certain player, in advance,
 in the case of prolonged absence. (Such as a vacation.)
 
-# Rule 9
+Rule 9
+======
 
 After a player's proposal is submitted and voted on, that player is
 awarded with the amount of points (rounded up) which this equation
 permits: [votes for/total votes*10]
 
-# Rule 10
+Rule 10
+=======
 
 During the Game Phase, if one or more players passes 300 points at the
 end of their turn, then they are considered a winner of that game. Once
@@ -102,12 +112,14 @@ players points are tallied, and any player (other than the first) whose
 score exceeds 300 points is also considered a winner. After the Final
 Round is over, the Game Phase ends and the End Phase begins.
 
-# Rule 11
+Rule 11
+=======
 
 Your initial rule proposal must be the rule brought to vote. After you
 post it, you can’t modify it- no exceptions.
 
-# Rule 12
+Rule 12
+=======
 
 Moderators and admins shall not recieve rewards or benefits in-game for
 being an admin or moderator. They must carry out all rules and laws to
@@ -121,7 +133,8 @@ well-being of the server, however, players may call a Grand Trial on a
 mod or admin to remove their role, and while at trial, all of their mod
 powers are revoked during the time of the trial.
 
-# Rule 13
+Rule 13
+=======
 
 On their turn, a player may choose to spend 10 points from their point
 score to shuffle the turn order. This will cause the turn order to be
@@ -129,9 +142,11 @@ randomised at the end of the round, however the player who initiated it
 will be first in the new turn order. Only one player can do this per
 round.
 
-# Rule 14
+Rule 14
+=======
 
-## Section 1
+Section 1
+---------
 
 Points are now the official currency of Now We Nomic. Certain roles may
 recieve points as a salary for their work. Players may now 'donate'
@@ -143,7 +158,8 @@ another player. They must first agree to recieve it. A trade is a
 donation, in which is return for the other party doing an agreed upon
 something, if both parties agree.
 
-## Section 2
+Section 2
+---------
 
 A new role is created called the "Guardian of Estates", or GoE. All
 donations and trades must be formalized with them first, and they make
@@ -157,9 +173,11 @@ hold more than two consecutive terms. An election lasts 72 hours, and
 the player with the most votes at the end of that time wins. A GoE may
 be removed from office by Grand Trial. 
 
-# Rule 15
+Rule 15
+=======
 
-## Section 1
+Section 1
+---------
 
 A player can, at any time, create a ribbon proposal. This proposal shall
 specify an emoji, a name, a valid ribbon type, and a list of criteria. A
@@ -168,7 +186,8 @@ in favor, a new class of ribbon shall be created in #ribbons as well as
 a new role corresponding to the ribbon class, named with that class's
 name and emoji.
 
-## Section 2
+Section 2
+---------
 
 Valid ribbon types are self-appointed or nominated. If a player thinks
 they have achieved the criteria for a self-appointed ribbon, they shall
@@ -178,3 +197,43 @@ if after 48 hours, The majority of votes are in favor, the player in
 question's name will be added under that ribbon class in #ribbons. They
 shall also be given the role associated with the ribbon. Players can
 receive the same ribbon class twice.
+
+Rule 16
+=======
+
+Section 1
+---------
+
+Two new channels (#haiku-proposals and #library) will be created.
+Players may post haikus to #haiku-proposals in the hopes of having them
+ratified and earning them points.
+
+A new elected office will also be created to oversee the
+#haiku-proposals and #library channels - The Viceroy of Poetic Affairs
+(VoPA). An election will be held as soon as possible to select a
+starting VoPA. Any active player may stand for VoPA and once in office
+they may hold the term for up to one year without the need to stand for
+reelection unless deemed inactive (see section 2). VoPAs may step down
+at any point - doing so will trigger a new election.
+
+Section 2
+---------
+
+The incumbent VoPA must post a Weekly Topic to the #haiku-proposals
+channel by 1pm UTC every Monday. Failure to do so for three consecutive
+weeks will trigger an automatic election for a new VoPA. Incumbent VoPAs
+may stand for reelection, even if they have already served a full year’s
+term.
+
+Ratified haikus will be posted by the VoPA to the #library channel. The
+VoPA may reject a player’s haiku for any of the following reasons:
+
+A. Failure to conform to standard three line 5-7-5 syllable format.
+B. Insufficient relevancy to weekly haiku topic.
+C. Written primarily in a language other than English.
+
+Players may call a Grand Trial against the VoPA if they believe their
+haiku has been wrongly rejected.
+
+Players will be awarded 2 points per ratified haiku. Players may post up
+to three haikus per topic.
