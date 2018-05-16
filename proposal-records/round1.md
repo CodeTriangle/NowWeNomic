@@ -20,3 +20,4 @@
 | May 6-11, 2018      | Round 1, Turn 18 | ArmyVeteranPlays's proposal is rejected
 | May 7-12, 2018      | Round 1, Turn 19 | Cuddlebeam's proposal is adopted; rule 14 is amended
 | May 8-13, 2018      | Round 1, Turn 20 | Nyhilo's proposal is rejected
+| May 9-14, 2018      | Round 1, Turn 21 | NotAJumbleOfNumbers's proposal is adopted; rule 2 is made mutable
