@@ -11,8 +11,8 @@ precedence over any other rule, and if two phase rules contradict, B
 class rules override S and E class rules, and lower digits have
 precedence if both are B class.
 
-Rule 2 (Immutable)
-==================
+Rule 2
+======
 
 Each player is assigned a place in the turn order, with new players
 being put at the end of the turn order as they join. Turns rotate down
