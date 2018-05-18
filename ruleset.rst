@@ -56,8 +56,8 @@ permanent banning from this server, two thirds or more is required to
 pass the punishment. Players have a period of two turns to vote, and
 turns proceed as normal during the Grand Trial.
 
-Rule 6 (Immutable)
-==================
+Rule 6
+======
 
 Each player has a score called their 'point score', which will be
 recorded next to their name in turn order. It can never be negative, and
