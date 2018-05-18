@@ -24,4 +24,5 @@ May 8-13, 2018      Round 1, Turn 20  Nyhilo's proposal is rejected
 May 9-14, 2018      Round 1, Turn 21  NotAJumbleOfNumbers's proposal is adopted; rule 2 is made mutable
 May 10-14, 2018     Round 1, Turn 22  greg fails to take turn
 May 11-16, 2018     Round 1, Turn 23  Kubby's proposal is adopted; rule 6 is made mutable
+May 12-17, 2018     Round 1, Turn 24  mishka1980's proposal is adopted; rule 18 is enacted
 =================== ================= ======

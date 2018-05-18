@@ -357,3 +357,27 @@ will need its own channel for proposals, and each member of the NCC will
 be listed in their respective seat in said channel. Should any other
 channel be deemed necessary, it will be created with the approval of the
 Mod team.
+
+Rule 18
+=======
+
+Section 1
+---------
+
+Upon Creation of the position of Grand Judge, the position will be
+randomly filled by a player from the server.
+
+Section 2
+---------
+
+While a player is a Grand Jury, their vote counts as two in any Grand
+Trials that start during their time as Grand Judge. A Grand Judge may
+not abstain from voting in a Grand Trial.
+
+Section 3
+---------
+
+After 3 turns elapse, the position of Grand Judge is given to another
+player. This player must be distinct from the current Grand Judge (or GJ
+for short). Voting for the GJ will commence 1 day before the 3rd turn
+starts.
